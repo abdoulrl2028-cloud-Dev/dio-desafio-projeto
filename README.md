@@ -1,22 +1,24 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/java-lab.jpg" alt="Desafio de padrões em Java" width="100%">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/java-lab.jpg" alt="Java design patterns" width="100%">
 </p>
 
-# dio-desafio-projeto
-desafio-dio-padroes-projeto.dio-java-padroes
-# Desafio DIO – Padrões de Projeto
+# DIO design-patterns challenge
 
-Projeto desenvolvido para o bootcamp da DIO, aplicando os padrões:
+A Java project from the DIO bootcamp. It applies these patterns:
+
 - Singleton
 - Strategy
 - Facade
 
-## 🚀 Tecnologias
+## Technologies
+
 - Java 17
 - Maven
 - IntelliJ
 
-## ▶️ Como executar
+## Run
+
 ```bash
 mvn clean install
 java -jar target/projeto.jar
+```
